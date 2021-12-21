@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This changed was made by a Patch Request",
+      "userId": "106527414557130239207",
+      "id": 5
+    },
+    {
+      "title": "This stream is made by Tony",
+      "description": "Love is refactoring!!",
+      "id": 6
+    },
+    {
+      "title": "Tony ",
+      "description": "HUynhadad",
+      "userId": "106527414557130239207",
+      "id": 7
+    },
+    {
+      "title": "New stream testing ",
+      "description": "Testing Microsoft Edge",
+      "userId": "106527414557130239207",
+      "id": 8
+    }
+  ]
+}
